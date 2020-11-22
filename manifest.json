@@ -1,0 +1,25 @@
+{
+    "short_name": "miguelADM",
+    "name": "ADM PWA",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "theme_color": "#81d4f4",
+    "background_color": "#ff6d00",
+    "icons": [
+      {
+        "src": "img/adidas.jpg",
+        "sizes": "2048x2048",
+        "type": "image/jpg"
+      },
+      {
+        "src": "img/seven.jpg",
+        "sizes": "1024x1024",
+        "type": "image/jpg"
+      },
+      {
+        "src": "img/welcome.jpg",
+        "sizes": "256x256",
+        "type": "image/jpg"
+      }
+    ]
+  }
